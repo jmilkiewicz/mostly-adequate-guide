@@ -1,4 +1,3 @@
-require('../../support');
 var _ = require('ramda');
 
 
